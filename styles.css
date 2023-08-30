@@ -1,0 +1,39 @@
+body{
+
+background-color: rgba(55, 154, 253, 0.959);
+
+font-family: Verdana, sans-serif;
+
+}
+
+article, footer {
+
+padding: 10px;
+background-color: rgb(211, 252, 27);
+
+}
+
+
+
+main{
+
+display: flex;
+
+gap: 10px;
+
+
+}
+
+
+a{
+
+text-decoration: none;  
+
+color: rgb(155, 0, 251);
+}
+
+a:hover{
+
+    text-decoration: underline;
+}
+
